@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Abdou586
-- 👀 I’m interested au développement web
-- 🌱 I’m currently learning de l'informatique
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me par mail soit abdoulatif.niabaly@epsi.fr ou abdoulatifniabaly586@gmail.com
+👋 Hi, I’m @Abdou586
 
-<!---
-Abdou586/Abdou586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in software development and Artificial Intelligence.
+
+🤝 I’m looking to collaborate on open source projects or any interesting coding projects.
+
+📧 How to reach me: niabalyabdoulatif@gmail.com
+
+📈 GitHub Stats:
+[![Abdou586's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdou586&show_icons=true&theme=radical)](https://github.com/Abdou586)
+
+🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/abdou-latif-niabaly-10bb45268)
